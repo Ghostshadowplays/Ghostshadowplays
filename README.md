@@ -1,39 +1,63 @@
 # 👻 Ghostshadowplays
 
-### Developer • Streamer • Creator of GhostyTools  
+### Developer • Streamer • Creator of GhostyTools
+
+Building powerful Windows tools for real-world users.  
+Automation. Clean UI. Practical design.
+
 Welcome to my GitHub profile. I build tools, automate everything I can, and stream my coding + gaming sessions.  
-I love creating clean, responsive apps with real functionality — not just scripts, but full experiences.
+I focus on creating clean, responsive apps with real functionality — not just scripts, but full experiences.
 
 ---
 
 ## 🔧 Projects I’m Building
 
-### 🚀 **GhostyTools**
-A professional Windows utility suite with a dual‑mode architecture:
+# 🚀 GhostyTools
 
-#### **🖥️ Python GUI Mode**
-- Built with PyQt6  
-- Password manager + vault  
-- System maintenance tools  
-- Debloat tools  
-- Security scans  
-- Hardware monitoring  
-- Clean, responsive UI  
-- Designed for everyday users  
+A professional Windows utility suite with a **dual‑mode architecture**, designed for both everyday users and power users.
 
-#### **⚡ PowerShell CLI Mode**
-- No Python required  
-- Runs instantly on any Windows machine  
-- Perfect for technicians and automation  
-- System maintenance  
-- Debloat  
-- Security checks  
-- System info  
-- JSON output for scripts  
-- Future support for web‑delivered execution (`irm | iex`)
+---
 
-#### **Architecture**
-```ansi
+## 🖼️ GhostyTools Preview
+
+<img src="Screenshot 2026-02-11 153501.png" width="25%"> <img src="Screenshot 2026-02-11 153512.png" width="25%"> <img src="Screenshot 2026-02-11 153521.png" width="25%">
+
+<img src="Screenshot 2026-02-11 153528.png" width="25%"> <img src="Screenshot 2026-02-11 153534.png" width="25%"> <img src="Screenshot 2026-02-11 153541.png" width="25%">
+
+<img src="Screenshot 2026-02-11 153549.png" width="25%"> <img src="Screenshot 2026-02-11 153559.png" width="25%">
+
+---
+
+## 🖥️ Python GUI Mode
+
+* Built with **PyQt6**
+* Password manager + encrypted vault
+* System maintenance tools
+* Windows debloat utilities
+* Security scans
+* Hardware monitoring
+* Clean, responsive UI
+* Designed for everyday users
+
+---
+
+## ⚡ PowerShell CLI Mode
+
+* No Python required  
+* Runs instantly on any Windows machine  
+* Perfect for technicians and automation workflows  
+* System maintenance  
+* Debloat tools  
+* Security checks  
+* System information output  
+* JSON output for scripting  
+* Future support for web‑delivered execution (`irm | iex`)
+
+---
+
+## 🏗️ Architecture
+
+```text
 ┌──────────────────────────────────────────┐
 │        Python GUI (Frontend)             │
 └───────────────────────────────↓──────────┘
@@ -49,13 +73,13 @@ A professional Windows utility suite with a dual‑mode architecture:
 ┌──────────────────────────────────────────┐
 │       Windows APIs / System Commands     │
 └──────────────────────────────────────────┘
-
+```
 🎮 Streaming
 I stream:
 
 Coding sessions
 
-GhostyTools development
+Live GhostyTools development
 
 Minecraft
 
@@ -86,7 +110,8 @@ Ghosty-Tools-Modules — PowerShell backend (coming soon)
 Ghostshadowplays Profile Repo — This page
 
 📫 Contact
-Want to collaborate or chat about tools, automation, or Windows internals?
+Want to collaborate or talk automation, Windows internals, or tool development?
+
 Discord: https://discord.gg/YKsAJYx
 
 Thanks for stopping by 👻
