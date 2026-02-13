@@ -1,58 +1,69 @@
 👻 Ghostshadowplays
-Developer • Streamer
-I build Windows tools and stream coding and gaming.
+Developer • Streamer • Creator of GhostyTools
+Building practical Windows tools with clean UI, automation, and real‑world usefulness.
+I code live, break things live, fix things live — and ship tools people actually use.
 
-GhostyTools
-A modular Windows utility suite with both a GUI and a CLI.
-Designed to be straightforward, reliable, and easy to use.
+## ⭐ Featured Repositories
 
-Preview
-(screenshots remain here)
+- [GhostyTools](https://github.com/Ghostshadowplays/Ghosty-Tools)
+- [Cassette Player Plus](https://github.com/Ghostshadowplays/cassette-player-plus)
+- [GhostTune Converter](https://github.com/Ghostshadowplays/GhostTune-Converter)
 
-GUI
-Encrypted vault
+🔧 GhostyTools
+Windows utility suite (GUI + CLI)
+➡️ System tools, debloat, security, monitoring, automation
 
-Maintenance tools
+📦 Ghosty-Tools-Modules (coming soon)
+Modular PowerShell backend for GhostyTools
 
-Debloat options
+🧩 Profile Repo
+This page — my GitHub profile
 
-Security checks
+🚀 GhostyTools Overview
+A professional Windows utility suite with a dual‑mode architecture:
 
-Hardware info
+Python GUI (PyQt6) — clean UI, vault, system tools, monitoring
 
-Simple, clean interface
+PowerShell CLI — fast, portable, technician‑friendly
 
-CLI
-No external dependencies
+Modular backend — maintainable, extensible, built for long‑term growth
 
-Fast startup
+🖼️ UI Preview
+(Your images stay exactly as they are — just grouped more cleanly)
 
-Maintenance + debloat
+<img src="Screenshot 2026-02-11 153501.png" width="25%"> <img src="Screenshot 2026-02-11 153512.png" width="25%"> <img src="Screenshot 2026-02-11 153521.png" width="25%">
+<br>
+<img src="Screenshot 2026-02-11 153528.png" width="25%"> <img src="Screenshot 2026-02-11 153534.png" width="25%"> <img src="Screenshot 2026-02-11 153541.png" width="25%">
+<br>
+<img src="Screenshot 2026-02-11 153549.png" width="25%"> <img src="Screenshot 2026-02-11 153559.png" width="25%">
 
-Security + system info
-
-JSON output
-
-Planned web‑based execution
-
-Architecture
+🏗️ Architecture
 text
-GUI
-↓
-PowerShell entry script
-↓
-PowerShell modules
-↓
-Windows APIs / system commands
-Streaming
-I stream coding, GhostyTools development, and Minecraft.
+Python GUI (PyQt6)
+        ↓
+PowerShell Entry Script (ghostytools.ps1)
+        ↓
+Modular PowerShell Backend (.psm1)
+        ↓
+Windows APIs / System Commands
+🎮 Streaming
+I stream:
+
+Live GhostyTools development
+
+Coding sessions
+
+Debugging + problem‑solving
+
+Minecraft
+
+Tech breakdowns
+
 Twitch: https://twitch.tv/ghostshadow_plays
 
-Tech
-Python • PowerShell • GitHub Actions • Windows internals • UI/UX
+🛠️ Tech I Use
+Python • PyQt6 • PowerShell • Windows internals • CI/CD • UI/UX • Packaging
 
-Repositories
-GhostyTools • Ghosty-Tools-Modules • Profile Repo
-
-Contact
+📫 Contact
 Discord: https://discord.gg/YKsAJYx
+Always open to collaboration, automation talk, or Windows internals nerding.
