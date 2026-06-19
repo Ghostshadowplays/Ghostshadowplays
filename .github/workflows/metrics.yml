@@ -15,13 +15,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
 
-          # --- Your note goes here ---
+          # Notes
           plugin_notes: yes
           plugin_notes_text: "Auto‑generated every 12 hours • Ghostshadow Metrics"
 
           # Commit calendar
           plugin_calendar: yes
-          plugin_calendar_type: classic
+          plugin_calendar_look: classic
 
           # Languages
           plugin_languages: yes
@@ -48,7 +48,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: 100
 
-          # Streaks
-          plugin_streak: yes
+          # Streaks (correct name)
+          plugin_streaks: yes
 
           filename: metrics.svg
