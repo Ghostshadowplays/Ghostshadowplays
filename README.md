@@ -3,6 +3,38 @@ Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
 I code live, break things live, fix things live — and ship tools people actually use.
 
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="220" fill="#0d1117" rx="22"/>
+
+  <!-- Glow Accent -->
+  <ellipse cx="450" cy="210" rx="420" ry="60" fill="#22c55e" opacity="0.12"/>
+
+  <!-- Title -->
+  <text x="50" y="85" fill="#e5e7eb" font-size="42" font-weight="600"
+        font-family="Segoe UI, Ubuntu, sans-serif">
+    👻 Ghostshadowplays
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50" y="125" fill="#9ca3af" font-size="22"
+        font-family="Segoe UI, Ubuntu, sans-serif">
+    Developer • Streamer • Creator of GhostyTools
+  </text>
+
+  <!-- Tagline Box -->
+  <rect x="50" y="145" width="520" height="40" rx="10" fill="#22c55e" opacity="0.18"/>
+  <text x="65" y="170" fill="#bbf7d0" font-size="18"
+        font-family="Segoe UI, Ubuntu, sans-serif">
+    Building practical Windows tools with clean UI, automation & real‑world usefulness
+  </text>
+
+  <!-- Right-side Ghosty Icon -->
+  <circle cx="760" cy="110" r="60" fill="#22c55e" opacity="0.15"/>
+  <text x="720" y="130" font-size="60" fill="#22c55e">👻</text>
+</svg>
+
+
 ## ⭐ Featured Repositories
 
 - [GhostyTools](https://github.com/Ghostshadowplays/Ghosty-Tools)
