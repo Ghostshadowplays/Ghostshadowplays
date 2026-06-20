@@ -4,6 +4,13 @@ Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
 I code live, break things live, fix things live — and ship tools people actually use.
 
+---
+
+## 📊 GitHub Metrics  
+<img src="./metrics.svg" width="100%">
+
+---
+
 ## ⭐ Featured Repositories
 
 - [GhostyTools](https://github.com/Ghostshadowplays/Ghosty-Tools)
