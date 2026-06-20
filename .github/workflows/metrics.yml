@@ -1,6 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,14 +13,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ghostshadowplays
           template: classic
-          config_timezone: Europe/London
           filename: metrics.svg
+          config_timezone: Europe/London
 
           plugins:
             languages:
               enabled: true
-              ignored: [html, css]
-              details: [bytes-size, percentage]
+              ignored:
+                - html
+                - css
+              details:
+                - bytes-size
+                - percentage
               limit: 12
 
             activity:
