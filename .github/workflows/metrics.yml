@@ -11,6 +11,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # --- REQUIRED TO ENABLE PLUGINS ---
+          setup_community_templates: yes
+          config_presets: plugins
+
           # --- ENABLE PLUGINS ---
           plugins: |
             calendar
