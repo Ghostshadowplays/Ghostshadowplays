@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://twitch.tv/ghostshadow_plays">
+    <img src="./twitch-status.png" width="500">
+  </a>
+</p>
+
 Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
 I code live, break things live, fix things live — and ship tools people actually use.
