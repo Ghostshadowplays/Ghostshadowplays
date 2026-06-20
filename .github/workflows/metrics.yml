@@ -30,8 +30,3 @@
           repositories_affiliations: owner
 
           plugin_gists: yes
-
-          plugin_twitch: yes
-          plugin_twitch_user: ghostshadow_plays
-          plugin_twitch_sections: streams, videos
-          plugin_twitch_limit: 5
