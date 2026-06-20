@@ -1,89 +1,25 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # --- REQUIRED TO ENABLE PLUGINS ---
-          setup_community_templates: yes
-          config_presets: plugins
-
-          # --- ENABLE PLUGINS ---
-          plugins: |
-            calendar
-            languages
-            followup
-            lines
-            achievements
-            streaks
-            traffic
-            stars
-            repositories
-            gists
-            twitch
-            notes
-
-          plugins_errors_fatal: yes
-
-          # --- BASIC SETUP ---
           user: Ghostshadowplays
           template: classic
+
           base: header, activity, community, repositories, metadata
+
           config_timezone: Europe/London
+          setup_community_templates: yes
 
-          # --- NOTES ---
-          plugin_notes: yes
-          plugin_notes_text: "Auto‑generated every 12 hours • Ghostshadow Metrics"
-
-          # --- CALENDAR ---
-          plugin_calendar: yes
-
-          # --- LANGUAGES ---
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 12
-
-          # --- FOLLOW-UP ---
-          plugin_followup: yes
-
-          # --- LINES ---
-          plugin_lines: yes
-
-          # --- ACHIEVEMENTS ---
-          plugin_achievements: yes
-          plugin_achievements_threshold: 100
-          plugin_achievements_display: compact
-
-          # --- STREAKS ---
-          plugin_streaks: yes
-
-          # --- TRAFFIC ---
-          plugin_traffic: yes
-
-          # --- STARS ---
-          plugin_stars: yes
-          plugin_stars_limit: 6
-
-          # --- REPOSITORIES ---
-          plugin_repositories: yes
-          repositories_affiliations: owner
-
-          # --- GISTS ---
-          plugin_gists: yes
-
-          # --- TWITCH ---
-          plugin_twitch: yes
-          plugin_twitch_user: ghostshadow_plays
-          plugin_twitch_sections: streams, videos
-          plugin_twitch_limit: 5
-
-          # --- OUTPUT ---
           filename: metrics.svg
