@@ -6,8 +6,7 @@ I code live, break things live, fix things live — and ship tools people actual
 
 ---
 
-## 📊 GitHub Metrics  
-<img src="./metrics.svg" width="100%">
+<img src="./metrics.svg" width="800">
 
 ---
 
