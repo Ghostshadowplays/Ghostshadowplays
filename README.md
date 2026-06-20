@@ -1,4 +1,4 @@
-[![Twitch Status](./twitch-status.png)](https://twitch.tv/ghostshadow_plays)
+[![Twitch](https://img.shields.io/badge/Twitch-ghostshadow__plays-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/ghostshadow_plays)
 
 Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
