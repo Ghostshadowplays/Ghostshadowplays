@@ -1,9 +1,8 @@
-[![Twitch](https://img.shields.io/badge/Twitch-ghostshadow__plays-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/ghostshadow_plays)
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/YKsAJYx)
-
 <a href="https://twitch.tv/ghostshadow_plays">
   <img src="https://img.shields.io/twitch/status/ghostshadow_plays?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS">
 </a>
+
+[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/YKsAJYx)
 
 Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
