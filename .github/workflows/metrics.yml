@@ -68,6 +68,17 @@ jobs:
           plugin_calendar_legend: yes
           plugin_calendar_look: 3d
 
+          # WakaTime (sorted like Chris Titus)
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sort: time
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+          plugin_wakatime_languages_other: yes
+
           # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
