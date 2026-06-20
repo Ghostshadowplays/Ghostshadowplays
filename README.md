@@ -1,4 +1,5 @@
 [![Twitch](https://img.shields.io/badge/Twitch-ghostshadow__plays-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/ghostshadow_plays)
+[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/YKsAJYx)
 
 Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
@@ -22,8 +23,3 @@ Windows utility suite (GUI + CLI)
 
 📦 Ghosty-Tools-Modules (coming soon)
 Modular PowerShell backend for GhostyTools
-
-Twitch: https://twitch.tv/ghostshadow_plays
-
-Discord: https://discord.gg/YKsAJYx
-
