@@ -26,10 +26,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 12
 
-          # WakaTime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-
           # Follow-up metrics
           plugin_followup: yes
 
