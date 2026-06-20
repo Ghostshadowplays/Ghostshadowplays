@@ -59,9 +59,14 @@ jobs:
           plugin_code_languages: yes
           plugin_code_load: 400
 
-          # Commit calendar (3D)
+          # Commit calendar
           plugin_calendar: yes
           plugin_calendar_type: classic
+          plugin_calendar_limit: 12
+          plugin_calendar_sections: commits
+          plugin_calendar_colors: "0: #161b22, 1: #0e4429, 2: #006d32, 3: #26a641, 4: #39d353"
+          plugin_calendar_legend: yes
+          plugin_calendar_look: 3d
 
           # Languages
           plugin_languages: yes
