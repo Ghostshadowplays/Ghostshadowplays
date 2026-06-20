@@ -4,7 +4,7 @@ I code live, break things live, fix things live — and ship tools people actual
 
 ---
 
-<img src="./metrics.svg" width="450">
+<img src="./metrics.svg" width="500">
 
 ---
 
