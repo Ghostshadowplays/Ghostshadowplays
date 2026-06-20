@@ -12,7 +12,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Enable plugin system
-          config_presets: plugins
           plugins_errors_fatal: yes
 
           # Base panels
