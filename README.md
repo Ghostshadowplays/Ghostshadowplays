@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://twitch.tv/ghostshadow_plays">
-    <img src="./twitch-status.png" width="500">
-  </a>
-</p>
+[![Twitch Status](./twitch-status.png)](https://twitch.tv/ghostshadow_plays)
 
 Developer • Streamer • Creator of GhostyTools
 Building practical Windows tools with clean UI, automation, and real‑world usefulness.
