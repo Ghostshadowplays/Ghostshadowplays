@@ -36,10 +36,10 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Options
-          user: ChrisTitusTech
+          user: Ghostshadowplays
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Chicago
+          config_timezone: 
           plugin_gists: yes
           plugin_habits: no
           plugin_habits_charts_type: classic
