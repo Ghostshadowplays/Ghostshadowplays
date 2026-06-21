@@ -56,7 +56,7 @@ jobs:
           # Gists
           plugin_gists: yes
 
-          # Starlists (stars you’ve given)
+          # Starlists (stars you've given)
           plugin_starlists: yes
 
           # Discussions
@@ -106,9 +106,6 @@ jobs:
 
           # Lines of code
           plugin_lines: yes
-
-          # Streaks
-          plugin_streak: yes
 
           # Achievements
           plugin_achievements: yes
