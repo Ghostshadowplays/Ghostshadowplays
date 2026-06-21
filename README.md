@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="./metrics.svg" width="400%">
+<img src="./metrics.svg" width="600%">
 
 ---
 
