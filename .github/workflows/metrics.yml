@@ -31,8 +31,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Enable plugin system
-          config_presets: plugins
-          plugins_errors_fatal: yes
+          plugins_errors_fatal: no
         
           # Base panels
           user: Ghostshadowplays
