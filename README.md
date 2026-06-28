@@ -1,4 +1,4 @@
-<p align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ghostshadowplays.ghostshadowplays" /><p align="center">
   <a href="https://twitch.tv/ghostshadow_plays">
     <img src="https://img.shields.io/twitch/status/ghostshadow_plays?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
   </a>
