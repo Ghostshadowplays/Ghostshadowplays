@@ -39,11 +39,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostshadowplays&langs_count=20&layout=compact&bg_color=12,693b2e,8353a5,4971CC&title_color=F5BA2E&text_color=fff)
-<img src="./metrics.svg" width="500">
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostshadowplays&langs_count=20&layout=compact&bg_color=12,693b2e,8353a5,4971CC&title_color=F5BA2E&text_color=fff)
+<img src="./metrics.svg" width="500">
 ## ⭐ Featured Repositories
 
 - 🔧 **[GhostyTools](https://github.com/Ghostshadowplays/Ghosty-Tools)** — Modern Windows utility suite for debloating, security, and automation.
