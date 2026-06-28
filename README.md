@@ -18,11 +18,33 @@
 
 ### 🛠 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windows-terminal&logoColor=white
+https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white
+
+Frameworks & Runtimes
+https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+https://img.shields.io/badge/PyInstaller-FFDD00?style=for-the-badge&logo=python&logoColor=black
+
+Tools & DevOps
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+https://img.shields.io/badge/Winget-00A4EF?style=for-the-badge&logo=windows-terminal&logoColor=white
+https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white
+
+Platforms
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
+
+https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white
+https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white
 
 ### 📊 GitHub Stats
 
