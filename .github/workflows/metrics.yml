@@ -15,7 +15,7 @@ jobs:
       group: metrics-update
       cancel-in-progress: true
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -98,6 +98,7 @@ jobs:
 
           # Lines of code
           plugin_lines: yes
+          plugin_lines_sections: history,repositories
 
           # Output file
           filename: metrics.svg
