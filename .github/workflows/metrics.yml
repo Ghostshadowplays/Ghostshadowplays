@@ -97,7 +97,7 @@ jobs:
           plugin_followup: yes
 
           # Lines of code
-          plugin_lines: yes
+          plugin_lines: no
 
           # Output file
           filename: metrics.svg
