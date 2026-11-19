@@ -1,27 +1,13 @@
-Here's the corrected version:
-
-HTML
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ghostshadowplays.ghostshadowplays" />
- 
-<p align="center">
- 
-<a href="https://twitch.tv/ghostshadow_plays">
-<img src="https://img.shields.io/twitch/status/ghostshadow_plays?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
-</a>
- 
-<br><br>
- 
-<a href="https://twitch.tv/yu_gi_oh_tbb">
-<strong>Yu-Gi-Oh! TBB</strong><br>
-<img src="https://img.shields.io/twitch/status/yu_gi_oh_tbb?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
-</a>
- 
-<br><br>
- 
-<a href="https://discord.gg/YKsAJYx">
-<img src="https://img.shields.io/badge/Discord-Server-9146FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1917">
-</a>
- 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ghostshadowplays.ghostshadowplays" /><p align="center">
+  <a href="https://twitch.tv/ghostshadow_plays">
+    <img src="https://img.shields.io/twitch/status/ghostshadow_plays?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
+  <a href="https://twitch.tv/yu_gi_oh_tbb"> 
+  <p>Yu-Gi-Oh! TBB</p>
+    <img src="https://img.shields.io/twitch/status/yu_gi_oh_tbb?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
+  </a>
+  <a href="https://discord.gg/YKsAJYx">
+    <img src="https://img.shields.io/badge/Discord-Server-9146FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1917">
+  </a>
 </p>
 
 <h2 align="center">Developer • Streamer • Creator of GhostyTools</h2>
