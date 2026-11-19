@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ghostshadowplays.ghostshadowplays" /><p align="center">
   <a href="https://twitch.tv/ghostshadow_plays">
     <img src="https://img.shields.io/twitch/status/ghostshadow_plays?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
-  <a href="https://twitch.tv/yu_gi_oh_tbb">
+  <a href="https://twitch.tv/yu_gi_oh_tbb"> 
+  <a href="Yu_Gi_Oh! TBB">
     <img src="https://img.shields.io/twitch/status/yu_gi_oh_tbb?logo=twitch&style=for-the-badge&labelColor=1c1917&logoColor=white&label=TWITCH+STATUS">
   </a>
   <a href="https://discord.gg/YKsAJYx">
