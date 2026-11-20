@@ -40,6 +40,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+[![wakatime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b.svg)](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b)
+
 ### 📊 GitHub Stats
 
 ---
