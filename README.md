@@ -40,13 +40,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-# Ghosty Tools
-
-[![WakaTime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b.svg)](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b)
-
-# Yu-Gi-Oh Tournament Bracket Bot
-
-[![WakaTime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/91481dd6-b03b-40b1-bd75-59bbed89aadb.svg)](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/91481dd6-b03b-40b1-bd75-59bbed89aadb)
+# Ghosty Tools [![wakatime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b.svg)](https://wakatime.com)
+# Yu-Gi-Oh Tournament Bracket Bot [![WakaTime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/91481dd6-b03b-40b1-bd75-59bbed89aadb.svg)](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/91481dd6-b03b-40b1-bd75-59bbed89aadb)
 ### 📊 GitHub Stats
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostshadowplays&langs_count=20&layout=compact&bg_color=12,693b2e,8353a5,4971CC&title_color=F5BA2E&text_color=fff)
