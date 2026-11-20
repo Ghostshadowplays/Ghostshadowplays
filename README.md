@@ -43,7 +43,7 @@
 [![wakatime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b.svg)](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/ca9bf21a-9d8a-4253-a31a-92814844ab8b)
 [![wakatime](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/91481dd6-b03b-40b1-bd75-59bbed89aadb.svg)](https://wakatime.com/badge/user/aca29186-9a7f-433e-80d5-6e3354e87601/project/91481dd6-b03b-40b1-bd75-59bbed89aadb)
 ### 📊 GitHub Stats
-
+<figure><embed src="https://wakatime.com/share/@aca29186-9a7f-433e-80d5-6e3354e87601/73d14141-0775-4e69-ab3b-3b795c8a7f68.svg"></embed></figure>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostshadowplays&langs_count=20&layout=compact&bg_color=12,693b2e,8353a5,4971CC&title_color=F5BA2E&text_color=fff)
 <img src="./metrics.svg" width="500">
